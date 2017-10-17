@@ -14,7 +14,7 @@ Here's what the database looks like:
 
 There are 18 directors, 31 movies, 6 users, and 44 `user_movies`.
 
-`user_movies` is a join table that 
+`user_movies` is a join table that represents which users would claim which movies as favorites. Each user can have many favorite movies, and each movie can be favorited by many users.
 
 ### PART 1: Basic SQL!
 
