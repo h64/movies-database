@@ -3,7 +3,7 @@
 ### TO SET UP:
 
 - Create a database (maybe `tc_movies_dev` would be a good name)
-- Run `psql -d [name of your database] -f schema.sql` from within this directory
+- Run `psql -d [name of your database] -f schema.sql` from within this directory or 
 - Run `psql -d [name of your database] -f seed.sql` from within this directory
 
 ### ABOUT THIS DATABASE:
