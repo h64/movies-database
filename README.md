@@ -2,8 +2,8 @@
 
 ### TO SET UP:
 
-- Create a database (maybe `tc_movies_dev` would be a good name)
-- Run `psql -d [name of your database] -f schema.sql` from within this directory or 
+- Create a database (maybe `movies_dev` would be a good name)
+- Run `psql -d [name of your database] -f schema.sql` from within this directory 
 - Run `psql -d [name of your database] -f seed.sql` from within this directory
 
 ### ABOUT THIS DATABASE:
@@ -39,3 +39,4 @@ These are gonna be hard. Make sure to use your friend google as a resource.
 1. List the movies with the number of favorites they have.
 2. List the names of directors along with the number of favorites that exist for all of the movies they've made, ordered by number of favorites descending.
 3. List the user name, director name and favorite count of all of the user/director combinations (based on the users_movies table).
+4. Find the favorite director -- the director whose movies have the most favorites.
