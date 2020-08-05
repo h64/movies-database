@@ -20,7 +20,7 @@ There are 18 directors, 31 movies, 6 users, and 44 `user_movies`.
 
 1. Add some movies! Add the title and synopsis of the last 5 movies you've seen that aren't already in the movies table. (If they have directors who aren't in the database, you'll have to add the directors as well!)
 2. As you can see, there is a column for `release_date` in the movies table that hasn't been filled in yet. Add the release date of your 5 favorite movies in the movies table.
-3. Delete 5 movies from the list you don't like. Like them all? Add 5 shit movies and then delete those suckers 😝.
+3. Delete 5 movies from the list you don't like. Like them all? Add 5 movies that are total flops and then delete those suckers 😝.
 4. Add yourself as a user and create records in `users_movies`  to record your favorites.
 
 ### PART 2: Joins!
